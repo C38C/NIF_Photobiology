@@ -36,3 +36,5 @@ All code is provided in the root folder.
 ## How to use
 1. Download the code using `git clone https://github.com/C38C/NIF_Photobiology.git` or [directly from Github](https://github.com/C38C/NIF_Photobiology/archive/refs/heads/master.zip).
 2. Explore the example files.
+
+![3 Day Model Dynamics](img/dynamics.png)
