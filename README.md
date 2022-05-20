@@ -1,5 +1,5 @@
 # NIF_Photobiology
-A collection of Python files / libraries to implement the Postnova, Abeysuriya, Tekieh et al. models of human photobiology from measured spectrophotometer data / CIE S 026 metrics / or multi-spectral simulations using [ALFA](https://www.solemma.com/alfa). These models are based on the following papers:
+A collection of Python files / libraries to implement the Postnova, Abeysuriya, Tekieh, et al. models of human photobiology from measured spectrophotometer data / CIE S 026 metrics / or multi-spectral simulations using [ALFA](https://www.solemma.com/alfa). These models are based on the following papers:
 
 - Postnova, S., Lockley, S. W., & Robinson, P. A. (2018). [Prediction of cognitive performance and subjective sleepiness using a model of arousal dynamics.](https://journals.sagepub.com/doi/pdf/10.1177/0748730418758454) Journal of biological rhythms, 33(2), 203-218.
 - Abeysuriya, R. G., Lockley, S. W., Robinson, P. A., & Postnova, S. (2018). [A unified model of melatonin, 6-sulfatoxymelatonin, and sleep dynamics.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpi.12474?casa_token=U685fxbY2kAAAAAA:-Es1sPkZynuPUxp24YiBm6JBX5xAlZern9nAaehjYV0VVoLoD0VkfhhtOuYNKDECJcoOSZ_Az1tJ87Y) Journal of Pineal Research, 64(4), e12474.
@@ -14,7 +14,7 @@ The code is licensed under GPL v3. For use of the code in research, kindly cite 
 	
 	
 ## Features
-- `biological_model.py` and `example - `files: Calculate the Postnova, Abeysuriya, and Tekieh et al. models oh photobiological dynamics based on sleep/wake dynamics and received light. Outputs include: subjective sleepiness (KSS), melatonin blood level concentration, reaction time (vPVTRT), and phase shifting.
+- `biological_model.py` and `example - `files: Calculate the Postnova, Abeysuriya, and Tekieh, et al. models of photobiological dynamics based on sleep/wake dynamics and received light. Outputs include: subjective sleepiness (KSS), melatonin blood level concentration, reaction time (vPVTRT), and phase shifting.
 - `spectral_conversion.py` and `exaple - `files: Convert ALFA spectral irradiance simulations to CIE S 026 outputs automatically.
 - `example - getting started.py`: Perform simple photobiological modeling on a short timescale.
 - `example - annual lightsolve simulation run.py` and `example - process annual results.py`: Perform annual photobiological modelling and analyze results seasonally.
