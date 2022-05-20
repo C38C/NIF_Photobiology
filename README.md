@@ -1,5 +1,5 @@
 # NIF_Photobiology
-A collection of Python files / libraries to implement the Postnova, Abeysuriya, Tekieh et al. models of human photobiology from measured spectrophotometer data / CIE S 026 metrics / or multi-spectral simulations using ALFA. These models are based on the following papers:
+A collection of Python files / libraries to implement the Postnova, Abeysuriya, Tekieh et al. models of human photobiology from measured spectrophotometer data / CIE S 026 metrics / or multi-spectral simulations using [ALFA](https://www.solemma.com/alfa). These models are based on the following papers:
 
 - Postnova, S., Lockley, S. W., & Robinson, P. A. (2018). [Prediction of cognitive performance and subjective sleepiness using a model of arousal dynamics.](https://journals.sagepub.com/doi/pdf/10.1177/0748730418758454) Journal of biological rhythms, 33(2), 203-218.
 - Abeysuriya, R. G., Lockley, S. W., Robinson, P. A., & Postnova, S. (2018). [A unified model of melatonin, 6-sulfatoxymelatonin, and sleep dynamics.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jpi.12474?casa_token=U685fxbY2kAAAAAA:-Es1sPkZynuPUxp24YiBm6JBX5xAlZern9nAaehjYV0VVoLoD0VkfhhtOuYNKDECJcoOSZ_Az1tJ87Y) Journal of Pineal Research, 64(4), e12474.
