@@ -15,7 +15,7 @@ The code is licensed under GPL v3. For use of the code in research, kindly cite 
 	
 ## Features
 - `biological_model.py` and `example - `files: Calculate the Postnova, Abeysuriya, and Tekieh, et al. models of photobiological dynamics based on sleep/wake dynamics and received light. Outputs include: subjective sleepiness (KSS), melatonin blood level concentration, reaction time (vPVTRT), and phase shifting.
-- `spectral_conversion.py` and `exaple - `files: Convert ALFA spectral irradiance simulations to CIE S 026 outputs automatically.
+- `spectral_conversion.py` and `example - `files: Convert ALFA spectral irradiance simulations to CIE S 026 outputs automatically.
 - `example - getting started.py`: Perform simple photobiological modeling on a short timescale.
 - `example - annual lightsolve simulation run.py` and `example - process annual results.py`: Perform annual photobiological modelling and analyze results seasonally.
 
